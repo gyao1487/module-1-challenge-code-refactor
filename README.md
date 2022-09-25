@@ -2,7 +2,7 @@
 
 ## Description
 
-The goal of this project is to learn what it means to refactor code, to implement concepts around HTML and CSS that have been learned this past week in a practical/hands-on way, and also to understand accessibility standards for web development. 
+The goal of this project is to improve on the original homepage for Horiseon Social Solution Services, especially the accessibility features and semantic structure. The secondary goal was to learn what it means to refactor code, to implement concepts around HTML and CSS that have been learned this past week in a practical/hands-on way, and also to understand accessibility standards for web development. 
 
 The codebase is refactored to improve not only accessibility, but long-term sustainability as well. The webpage functions as the original does, with some improvements in CSS and HTML structure.
 
