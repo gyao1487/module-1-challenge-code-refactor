@@ -8,7 +8,7 @@ The codebase is refactored to improve not only accessibility, but long-term sust
 
 ## Installation
 
-You can open the webpage in your web browser using this URL: 
+You can open the webpage in your web browser using this URL: https://gyao1487.github.io/Module-1-Challenge/
 
 ## Usage
 
