@@ -23,7 +23,7 @@ Implemented the following improvements:
 
 Inspect the page on the web browser to view changes.
 
-![Wepage Screenshot](screenshot/horiseon-screenshot.png)
+![Wepage Screenshot](http://github.com/gyao1487/Module-1-Challenge/screenshot/horiseon-screenshot.png)
 
 ## Credits
 Referenced resources from the following websites to complete this project:
