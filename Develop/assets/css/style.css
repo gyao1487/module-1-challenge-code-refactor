@@ -24,6 +24,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
+
 /*replaced div with nav*/
 .header nav {
     padding-top: 15px;
@@ -199,6 +200,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
 }
