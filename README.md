@@ -23,7 +23,7 @@ Implemented the following improvements:
 
 Inspect the page on the web browser to view changes.
 
-[Webpage Screenshot](develop/assets/images/horiseon-screenshot.png)
+![Wepage Screenshot](screenshot/horiseon-screenshot.png)
 
 ## Credits
 Referenced resources from the following websites to complete this project:
