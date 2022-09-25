@@ -23,7 +23,7 @@ Implemented the following improvements:
 
 Inspect the page on the web browser to view changes.
 
-![Wepage Screenshot](https://raw.githubusercontent.com/gyao1487/module-1-challenge/main/screenshot/horiseon-screenshot.png)
+![Webpage Screenshot](https://user-images.githubusercontent.com/112779767/192166504-5a426bdb-854c-4c50-91fd-b7ed4fa727bf.png)
 
 ## Credits
 Referenced resources from the following websites to complete this project:
