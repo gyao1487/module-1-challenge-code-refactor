@@ -8,7 +8,7 @@ The codebase is refactored to improve not only accessibility, but long-term sust
 
 ## Installation
 
-You can view the webpage at 
+You can open the webpage in your web browser using this URL: 
 
 ## Usage
 
@@ -21,7 +21,7 @@ Implemented the following improvements:
 * Page title: Added clear and concise page title to <title> element for increased SEO and accessibility.
 * CSS Styling: Consolidated CSS selectors and properties, and organized to follow the semantic structure of HTML.
 
-Inspect the page on the web browser to view changes.
+Inspect the page on the web browser to view changes. Below is a screenshot of the webpage.
 
 ![Webpage Screenshot](https://user-images.githubusercontent.com/112779767/192166504-5a426bdb-854c-4c50-91fd-b7ed4fa727bf.png)
 
