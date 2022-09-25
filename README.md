@@ -1,38 +1,35 @@
-# Grace's Module 1 Challenge Submission
+# Horiseon Social Solution Services, Inc. Webpage
 
 ## Description
 
-The goal of this project is to improve on the original homepage for Horiseon Social Solution Services, especially the accessibility features and semantic structure. The secondary goal was to learn what it means to refactor code, to implement concepts around HTML and CSS that have been learned this past week in a practical/hands-on way, and also to understand accessibility standards for web development. 
+The goal of this project is to improve on the original homepage for Horiseon Social Solution Services, especially the accessibility features and semantic structure. The secondary goal was to learn what it means to refactor code, to implement concepts around HTML and CSS that have been learned during the first week of the bootcamp in a practical/hands-on way, and also to understand accessibility standards for web development. 
 
 The codebase is refactored to improve not only accessibility, but long-term sustainability as well. The webpage functions as the original does, with some improvements in CSS and HTML structure.
 
 ## Installation
 
-N/A
+You can view the webpage at 
 
 ## Usage
 
 Implemented the following improvements:
-* Semantic HTML
-* HTML Structure
-* Alt Attributes
-* Heading Attributes
-* Title Element
 
-Provide instructions and examples for use. Include screenshots as needed.
+* Semantic HTML: Replaced generic <div> elements with semantic elements that better describe the structure and function of each part of the page and removed irrelevant tags. 
+* HTML Structure: 
+* Image attributes: Added alt text to <img> elements to increase accessibility especially for users who use assistive technology.
+* Heading Order: Made edits to ensure that heading elements are in logical and sequential order
+* Page title: Added clear and concise page title to <title> element for increased SEO and accessibility.
+* CSS Styling: Consolidated CSS selectors and properties, and organized to follow the semantic structure of HTML.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+Inspect the page on the web browser to view changes.
 
-![alt text](assets/images/screenshot.png)
+[Webpage Screenshot](assets/images/horiseon-screenshot.png)
 
 ## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+Referenced resources from the following websites to complete this project:
+* https://www.w3schools.com/html/html5_semantic_elements.asp
+* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section
+* https://www.codecademy.com/learn/learn-html/modules/learn-html-elements/cheatsheet 
 
 ## License
-
 Please refer to the LICENSE in the repo.
