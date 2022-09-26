@@ -14,8 +14,7 @@ You can open the webpage in your web browser using this URL: https://gyao1487.gi
 
 Implemented the following improvements:
 
-* Semantic HTML: Replaced generic <div> elements with semantic elements that better describe the structure and function of each part of the page and removed irrelevant tags. 
-* HTML Structure: 
+* Semantic HTML: Replaced generic <div> elements with semantic elements that better describe the structure and function of each part of the page and removed irrelevant tags.
 * Image attributes: Added alt text to <img> elements to increase accessibility especially for users who use assistive technology.
 * Heading Order: Made edits to ensure that heading elements are in logical and sequential order
 * Page title: Added clear and concise page title to <title> element for increased SEO and accessibility.
